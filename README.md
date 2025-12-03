@@ -41,6 +41,8 @@ Write the detailed procedure here
 <img width="1919" height="1079" alt="digital ex4,fa1,program" src="https://github.com/user-attachments/assets/8c6f1eae-1dc7-4259-bbc3-3afa8616ebec" />
 <img width="1919" height="1079" alt="digital ex4,fs2,program" src="https://github.com/user-attachments/assets/bb45bca1-1098-447c-8e6d-f695ace05bac" />
  Developed by:d.sanjutha RegisterNumber:25015927*/
+
+ 
 **RTL realization output:**
 
 <img width="1917" height="1059" alt="digital ex4,fa1,output" src="https://github.com/user-attachments/assets/3c6543e4-6e17-468b-8b4f-393ed8a84f94" />
